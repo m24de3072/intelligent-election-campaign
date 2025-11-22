@@ -4,3 +4,9 @@
 2. Run the python script from the dataset directory `add_triplet_urban_flag.py` - To add the urban flag to the dataset based on the population density of the region
 3. Run the python script from the training directory `train_election_models.py` - To train the model(s)
 4. Run the streamlit command from the dashboard directory `streamlit run streamlit_app.py` - To spin the dashboard in a streamlit app
+
+
+### The streamlit dashboard can be viewed at https://intelligent-election-campaign-hlli3dwyp2ttztcthmrbvj.streamlit.app/
+
+Also, this repository used Git LFS to store the dataset. Thus, while cloning the repository, make sure to install Git LFS.
+The LFS tracked files can be found in the .gitattributes file.
