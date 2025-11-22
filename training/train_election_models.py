@@ -52,6 +52,9 @@ except Exception:
     TabNetClassifier = None
     TABNET_AVAILABLE = False
 
+# Disable TabNet to do it as a future enhancement
+TABNET_AVAILABLE = False
+
 # ---------- Paths ----------
 DATA_PATH = Path("../dataset/election_outputs/electoral_with_census_attributes_with_urban_flag.csv")
 OUT_DIR = Path("./election_outputs")
