@@ -1,0 +1,543 @@
+state_norm,pc_name_norm,pc_no,candidate,party,avg_prob
+andaman_&_nicobar_islands,andaman & nicobar islands,1,KULDEEP RAI SHARMA,INC,0.9704527996384211
+andhra_pradesh,amalapuram,7,CHINTA ANURADHA,YSRCP,0.7370889919451632
+andhra_pradesh,anakapalli,5,Dr.Beesetti Venkata Satyavathi,YSRCP,0.908201783108766
+andhra_pradesh,anantapur,19,TALARI RANGAIAH,YSRCP,0.8686727571133716
+andhra_pradesh,aruku,1,GODDETI. MADHAVI,YSRCP,0.9077216275531177
+andhra_pradesh,bapatla,15,NANDIGAM SURESH,YSRCP,0.439601632501721
+andhra_pradesh,chittoor,25,N. REDDEPPA,YSRCP,0.8940524729004846
+andhra_pradesh,eluru,10,KOTAGIRI SRIDHAR,YSRCP,0.8927003361784213
+andhra_pradesh,guntur,13,Jayadev Galla,TDP,0.07923396829983617
+andhra_pradesh,hindupur,20,KURUVA GORANTLA MADHAV,YSRCP,0.9010477725254292
+andhra_pradesh,kadapa,21,Y.S.Avinash Reddy,YSRCP,0.9048949540150966
+andhra_pradesh,kakinada,6,VANGA GEETHAVISWANATH,YSRCP,0.3696215351269968
+andhra_pradesh,kurnool,18,AYUSHMAN DOCTOR SANJEEV KUMAR,YSRCP,0.8711626439644796
+andhra_pradesh,machilipatnam,11,BALASHOWRY VALLABHANENI,YSRCP,0.7292112121590208
+andhra_pradesh,nandyal,17,POCHA . BRAHMANANDA REDDY,YSRCP,0.8517210956972059
+andhra_pradesh,narasaraopet,14,LAVU SRI KRISHNA DEVARAYALU,YSRCP,0.8490488827416993
+andhra_pradesh,narsapuram,9,KANUMURU RAGHU RAMA KRISHNA RAJU,YSRCP,0.31879133153170464
+andhra_pradesh,nellore,22,Adala Prabhakara Reddy,YSRCP,0.8755972775150742
+andhra_pradesh,ongole,16,MAGUNTA SREENIVASULU REDDY,YSRCP,0.8729293203718124
+andhra_pradesh,rajahmundry,8,MARGANI BHARAT,YSRCP,0.9992429569699223
+andhra_pradesh,rajampet,24,P.V.MIDHUN REDDY,YSRCP,0.9574043736811062
+andhra_pradesh,srikakulam,2,KINJARAPU RAM MOHAN NAIDU,TDP,0.44572636310527364
+andhra_pradesh,tirupati,23,Balli Durga Prasad Rao,YSRCP,0.9048864985292525
+andhra_pradesh,vijayawada,12,KESINENI SRINIVAS (NANI),TDP,0.4590020117566322
+andhra_pradesh,visakhapatnam,4,M V V SATYANARAYANA,YSRCP,0.998215406932227
+andhra_pradesh,vizianagaram,3,Bellana Chandra Sekhar,YSRCP,0.6542732697232891
+arunachal_pradesh,arunachal east,2,Tapir Gao,BJP,0.996938785873696
+arunachal_pradesh,arunachal west,1,KIREN RIJIJU,BJP,0.9356074707106338
+assam,autonomous district,3,HOREN SING BEY,BJP,0.9984373830528523
+assam,barpeta,6,Abdul Khaleque,INC,0.9968092643372751
+assam,dhubri,4,BADRUDDIN AJMAL,AIUDF,0.9994009225863959
+assam,dibrugarh,13,RAMESWAR TELI,BJP,0.999453258665129
+assam,gauhati,7,QUEEN OJA,BJP,0.9990712383399074
+assam,jorhat,12,TOPON KUMAR GOGOI,BJP,0.9661541723006246
+assam,kaliabor,11,Gaurav Gogoi,INC,0.9936956701870121
+assam,karimganj,1,KRIPANATH MALLAH,BJP,0.9977132942894856
+assam,kokrajhar,5,Naba Kumar Sarania,IND,0.9963846554600524
+assam,lakhimpur,14,PRADAN BARUAH,BJP,0.978020468088259
+assam,mangaldoi,8,DILIP SAIKIA,BJP,0.999089799683008
+assam,nowgong,10,Pradyut Bordoloi,INC,0.9331607489248809
+assam,silchar,2,RAJDEEP ROY,BJP,0.9758559481384687
+assam,tezpur,9,PALLAB LOCHAN DAS,BJP,0.9861348833033926
+bihar,araria,9,PRADEEP KUMAR SINGH,BJP,0.9994829687391785
+bihar,arrah,32,R. K. Singh,BJP,0.9993065908189696
+bihar,aurangabad,37,SUSHIL KUMAR SINGH,BJP,0.9963885409055979
+bihar,banka,27,GIRIDHARI YADAV,JD(U),0.999440320555113
+bihar,begusarai,24,Giriraj Singh,BJP,0.9935859283294469
+bihar,bhagalpur,26,AJAY KUMAR MANDAL,JD(U),0.9940472664480332
+bihar,buxar,33,Ashwini Kumar Choubey,BJP,0.9994538266096761
+bihar,darbhanga,14,Gopal Jee Thakur,BJP,0.9982614551263144
+bihar,gaya (sc),38,Vijay Kumar,JD(U),0.9994443845148109
+bihar,gopalganj (sc),17,DR. ALOK KUMAR SUMAN,JD(U),0.9994964236117863
+bihar,hajipur (sc),21,PASHU PATI KUMAR PARAS,LJP,0.9995578249688037
+bihar,jahanabad,36,CHANDESHWAR PRASAD,JD(U),0.6616714401315799
+bihar,jamui (sc),40,CHIRAG KUMAR PASWAN,LJP,0.9993398574630957
+bihar,jhanjharpur,7,Ramprit Mandal,JD(U),0.9987568031024763
+bihar,karakat,35,MAHABALI SINGH,JD(U),0.9989524246434769
+bihar,katihar,11,DULAL CHANDRA GOSWAMI,JD(U),0.9598200675361802
+bihar,khagaria,25,Choudhary Mehboob Ali Kaiser,LJP,0.9994659038847404
+bihar,kishanganj,10,Dr. Mohammad Jawed,INC,0.9983155998041291
+bihar,madhepura,13,Dinesh Chandra Yadav,JD(U),0.9995145348555414
+bihar,madhubani,6,ASHOK KUMAR YADAV,BJP,0.9995608728117832
+bihar,maharajganj,19,"Janardan Singh 'Sigriwal""""""""",BJP,0.9995786664214468
+bihar,munger,28,RAJIV RANJAN SINGH ALIAS LALAN SINGH,JD(U),0.9994606471477887
+bihar,muzaffarpur,15,Ajay Nishad,BJP,0.9905624386608871
+bihar,nalanda,29,Kaushlendra Kumar,JD(U),0.9989278503146796
+bihar,nawada,39,Chandan Singh,LJP,0.99523660864233
+bihar,paschim champaran,2,DR. SANJAY JAISWAL,BJP,0.9984843815738618
+bihar,pataliputra,31,RAM KRIPAL YADAV,BJP,0.9967934199518165
+bihar,patna sahib,30,RAVI SHANKAR PRASAD,BJP,0.9993026383529191
+bihar,purnia,12,SANTOSH KUMAR,JD(U),0.9995026966022756
+bihar,purvi champaran,3,RADHA MOHAN SINGH,BJP,0.9994797908084907
+bihar,samastipur (sc),23,Ramchandra Paswan,LJP,0.9995089257622825
+bihar,saran,20,Rajiv Pratap Rudy,BJP,0.9995773231065973
+bihar,sasaram (sc),34,CHHEDI PASWAN,BJP,0.9994574858281984
+bihar,sheohar,4,RAMA DEVI,BJP,0.9996354328819583
+bihar,sitamarhi,5,Sunil Kumar Pintu,JD(U),0.9984005804565715
+bihar,siwan,18,Kavita Singh,JD(U),0.9994413844272948
+bihar,supaul,8,Dileshwar Kamait,JD(U),0.9994496290603097
+bihar,ujiarpur,22,Nityanand Rai,BJP,0.9995588482966239
+bihar,vaishali,16,Veena Devi (W/o Dinesh Prasad Singh),LJP,0.9992885947980227
+bihar,valmiki nagar,1,BAIDYANATH PRASAD MAHTO,JD(U),0.9993397393781924
+chandigarh,chandigarh,1,KIRRON KHER,BJP,0.9932389592718854
+chhattisgarh,bastar,10,DEEPAK BAIJ,INC,0.9969098001244499
+chhattisgarh,bilaspur,5,ARUN SAO,BJP,0.9962828886388431
+chhattisgarh,durg,7,VIJAY BAGHEL,BJP,0.988051811640491
+chhattisgarh,janjgir-champa,3,GUHARAM AJGALLEY,BJP,0.9991568521077256
+chhattisgarh,kanker,11,MOHAN MANDAVI,BJP,0.8547127314808997
+chhattisgarh,korba,4,JYOTSNA CHARANDAS MAHANT,INC,0.7673564382689955
+chhattisgarh,mahasamund,9,CHUNNI LAL SAHU,BJP,0.9709644554165073
+chhattisgarh,raigarh,2,GOMATI SAI,BJP,0.9992897336763905
+chhattisgarh,raipur,8,Sunil Kumar Soni,BJP,0.9876930242711651
+chhattisgarh,rajnandgaon,6,SANTOSH PANDEY,BJP,0.9995636171339137
+chhattisgarh,sarguja,1,Renuka Singh Saruta,BJP,0.9873970926714177
+dadra_&_nagar_haveli,dadra and nagar haveli,1,DELKAR MOHANBHAI SANJIBHAI,IND,0.668854355645512
+daman_&_diu,daman & diu,1,LALUBHAI BABUBHAI PATEL,BJP,0.9784271765623419
+delhi,chandni chowk,1,HARSH VARDHAN,BJP,0.997257562109293
+delhi,east delhi,3,GAUTAM GAMBHIR,BJP,0.9992817288100717
+delhi,new delhi,4,MEENAKASHI LEKHI,BJP,0.9663018011073177
+delhi,north east delhi,2,MANOJ TIWARI,BJP,0.9979162860427653
+delhi,north west delhi,5,HANS RAJ HANS,BJP,0.9674027963610825
+delhi,south delhi,7,RAMESH BIDHURI,BJP,0.9993751550646313
+delhi,west delhi,6,PARVESH SAHIB SINGH VERMA,BJP,0.9995198880094079
+goa,north goa,1,SHRIPAD YESSO NAIK,BJP,0.9502140942776629
+goa,south goa,2,COSME FRANCISCO CAITANO SARDINHA,INC,0.756776004152603
+gujarat,ahmedabad east,7,Patel Hasmukhbhai Somabhai,BJP,0.9995036638067104
+gujarat,ahmedabad west,8,DR. KIRIT P. SOLANKI,BJP,0.9994711566303558
+gujarat,amreli,14,Kachhadiya Naranbhai Bhikhabhai,BJP,0.9956370031050366
+gujarat,anand,16,PATEL MITESH RAMESHBHAI (BAKABHAI),BJP,0.9963982764524694
+gujarat,banaskantha,2,PARBATBHAI SAVABHAI PATEL,BJP,0.999587808866439
+gujarat,bardoli,23,PARBHUBHAI NAGARBHAI VASAVA,BJP,0.9995140289961657
+gujarat,bharuch,22,Mansukhbhai Dhanjibhai Vasava,BJP,0.9994668806393392
+gujarat,bhavnagar,15,DR.BHARATIBEN DHIRUBHAI SHIYAL,BJP,0.9981929901048044
+gujarat,chhota udaipur,21,RATHVA GITABEN VAJESINGBHAI,BJP,0.9995458590275403
+gujarat,dahod,19,JASHVANTSINH SUMANBHAI BHABHOR,BJP,0.9968827715426014
+gujarat,gandhinagar,6,AMIT SHAH,BJP,0.9995102937679572
+gujarat,jamnagar,12,POONAMBEN HEMATBHAI MAADAM,BJP,0.9994787657626432
+gujarat,junagadh,13,CHUDASAMA RAJESHBHAI NARANBHAI,BJP,0.9995567875966597
+gujarat,kachchh,1,CHAVDA VINOD LAKHAMSHI,BJP,0.9993411227456523
+gujarat,kheda,17,Chauhan Devusinh,BJP,0.9971936862731374
+gujarat,mahesana,4,SHARDABEN ANILBHAI PATEL,BJP,0.9957156201964159
+gujarat,navsari,25,C. R. Patil,BJP,0.9994465680554644
+gujarat,panchmahal,18,Ratansinh Magansinh Rathod,BJP,0.9954903554409388
+gujarat,patan,3,DABHI BHARATSINHJI SHANKARJI,BJP,0.9991138870163422
+gujarat,porbandar,11,RAMESHBHAI LAVJIBHAI DHADUK,BJP,0.9994857455722357
+gujarat,rajkot,10,KUNDARIA MOHANBHAI KALYANJIBHAI,BJP,0.9948537512908038
+gujarat,sabarkantha,5,RATHOD DIPSINH SHANKARSINH,BJP,0.9996121367066809
+gujarat,surat,24,Darshana Vikram Jardosh,BJP,0.9995683512500317
+gujarat,surendranagar,9,Dr. MUNJAPARA MAHENDRABHAI,BJP,0.99881644307888
+gujarat,vadodara,20,RANJANBEN BHATT,BJP,0.9994910480046917
+gujarat,valsad,26,Dr.K.C.PATEL,BJP,0.9992147906187642
+haryana,ambala,1,RATTAN LAL KATARIA,BJP,0.9994923401484728
+haryana,bhiwani-mahendragarh,8,Dharambir Singh S/o Bhale Ram,BJP,0.986085991704724
+haryana,faridabad,10,KRISHAN PAL,BJP,0.9993756574644422
+haryana,gurgaon,9,RAO INDERJIT SINGH,BJP,0.9993835732132137
+haryana,hisar,4,BRIJENDRA SINGH,BJP,0.9474596967371948
+haryana,karnal,5,Sanjay Bhatia,BJP,0.9889487350878754
+haryana,kurukshetra,2,NAYAB SINGH,BJP,0.9993121265162641
+haryana,rohtak,7,ARVIND KUMAR SHARMA,BJP,0.994518935448031
+haryana,sirsa,3,Sunita Duggal,BJP,0.9992454411672046
+haryana,sonipat,6,RAMESH CHANDER KAUSHIK,BJP,0.9992571206982376
+himachal_pradesh,hamirpur,3,ANURAG SINGH THAKUR,BJP,0.9994128505425792
+himachal_pradesh,kangra,1,Kishan Kapoor,BJP,0.998410775578904
+himachal_pradesh,mandi,2,RAM SWAROOP SHARMA,BJP,0.9991162126328064
+himachal_pradesh,shimla,4,SURESH KUMAR KASHYAP,BJP,0.9990301357069431
+jammu_&_kashmir,anantnag,3,HASNAIN MASOODI,JKN,0.6880458828138747
+jammu_&_kashmir,baramulla,1,MOHAMMAD AKBAR LONE,JKN,0.7058587058587706
+jammu_&_kashmir,jammu,6,Jugal Kishore,BJP,0.9991219745280748
+jammu_&_kashmir,ladakh,4,Jamyang Tsering Namgyal,BJP,0.9706094408126551
+jammu_&_kashmir,srinagar,2,Farooq Abdullah,JKN,0.926218603496072
+jammu_&_kashmir,udhampur,5,DR. JITENDRA SINGH,BJP,0.999228672524729
+jharkhand,chatra,4,SUNIL KUMAR SINGH,BJP,0.9993923182540376
+jharkhand,dhanbad,7,PASHUPATI NATH SINGH,BJP,0.9923913329870688
+jharkhand,dumka,2,SUNIL SOREN,BJP,0.9992582767608285
+jharkhand,giridih,6,Chandra Prakash Choudhary,AJSUP,0.9992724864316754
+jharkhand,godda,3,Nishikant Dubey,BJP,0.9922862413594175
+jharkhand,hazaribagh,14,JAYANT SINHA,BJP,0.9926354139940203
+jharkhand,jamshedpur,9,Bidyut Baran Mahato,BJP,0.9994776370632575
+jharkhand,khunti,11,ARJUN MUNDA,BJP,0.733201920483108
+jharkhand,kodarma,5,ANNPURNA DEVI,BJP,0.9889442132908618
+jharkhand,lohardaga,12,SUDARSHAN BHAGAT,BJP,0.9983388914631
+jharkhand,palamau,13,VISHNU DAYAL RAM,BJP,0.9993675616714308
+jharkhand,rajmahal,1,VIJAY KUMAR HANSDAK,JMM,0.9993937554373005
+jharkhand,ranchi,8,SANJAY SETH,BJP,0.9734007237620791
+jharkhand,singhbhum,10,GEETA KORA,INC,0.9747044162240444
+karnataka,bagalkot,3,Gaddigoudar Parvatagouda Chandanagouda,BJP,0.9993080591582901
+karnataka,bangalore central,25,P. C. Mohan,BJP,0.8830311058439515
+karnataka,bangalore north,24,D.V. Sadananda Gowda,BJP,0.9984403361104406
+karnataka,bangalore rural,23,D.K. SURESH,INC,0.9988775902654959
+karnataka,bangalore south,26,TEJASVI SURYA,BJP,0.9989158275466761
+karnataka,belgaum,2,ANGADI SURESH CHANNABASAPPA,BJP,0.9931233021003859
+karnataka,bellary,9,Y. DEVENDRAPPA,BJP,0.9985969416796422
+karnataka,bidar,7,BHAGWANTH KHUBA,BJP,0.9976830553230123
+karnataka,bijapur,4,JIGAJINAGI RAMESH CHANDAPPA,BJP,0.9821863781460248
+karnataka,chamarajanagar,22,V. SRINIVAS PRASAD,BJP,0.7566559620997264
+karnataka,chikkballapur,27,B.N.Bache Gowda,BJP,0.9605501034877962
+karnataka,chikkodi,1,ANNASAHEB SHANKAR JOLLE,BJP,0.9986342054851901
+karnataka,chitradurga,18,A NARAYANASWAMY,BJP,0.9987272763359243
+karnataka,dakshina kannada,17,NALIN KUMAR KATEEL,BJP,0.9989223868160838
+karnataka,davanagere,13,G M SIDDESHWAR,BJP,0.998909972722456
+karnataka,dharwad,11,Pralhad Joshi,BJP,0.9991535816769108
+karnataka,gulbarga,5,DR. UMESH G JADHAV,BJP,0.9978834245522515
+karnataka,hassan,16,PRAJWAL REVANNA,JD(S),0.9793323110964958
+karnataka,haveri,10,UDASI. S.C.,BJP,0.9846932206312686
+karnataka,kolar,28,S. MUNISWAMY,BJP,0.9448456888066985
+karnataka,koppal,8,KARADI SANGANNA AMARAPPA,BJP,0.9978065621609904
+karnataka,mandya,20,SUMALATHA AMBAREESH,IND,0.9962937766914226
+karnataka,mysore,21,PRATHAP SIMHA,BJP,0.9988012750296702
+karnataka,raichur,6,RAJA AMARESHWARA NAIK,BJP,0.983201089415128
+karnataka,shimoga,14,B.Y.RAGHAVENDRA.,BJP,0.9992333961568397
+karnataka,tumkur,19,G. S. BASAVARAJ,BJP,0.9871462320092569
+karnataka,udupi chikmagalur,15,SHOBHA KARANDLAJE,BJP,0.9990495908631459
+karnataka,uttara kannada,12,ANANTKUMAR HEGDE,BJP,0.9993213840134896
+kerala,alappuzha,15,Adv. A M ARIFF,CPM,0.6832450039413965
+kerala,alathur,9,RAMYA HARIDAS,INC,0.9802593548831882
+kerala,attingal,19,Adv. ADOOR PRAKASH,INC,0.9954684858187746
+kerala,chalakudy,11,BENNY BEHANAN,INC,0.9867662458389589
+kerala,ernakulam,12,HIBI EDEN,INC,0.9577753255413693
+kerala,idukki,13,Adv. DEAN KURIAKOSE,INC,0.9979664330383546
+kerala,kannur,2,K. SUDHAKARAN,INC,0.9991593118210561
+kerala,kasaragod,1,Rajmohan Unnithan,INC,0.9394114174189232
+kerala,kollam,18,N.K.Premachandran,RSP,0.9942531861507129
+kerala,kottayam,14,Thomas Chazhikadan,KEC(M),0.9949517729873694
+kerala,kozhikode,5,M.K.RAGHAVAN,INC,0.9987307101955392
+kerala,malappuram,6,P.K. Kunhalikutty,IUML,0.9521980673584809
+kerala,mavelikkara,16,KODIKUNNIL SURESH,INC,0.9990877651678008
+kerala,palakkad,8,V K SREEKANDAN,INC,0.7960469353553447
+kerala,pathanamthitta,17,ANTO ANTONY,INC,0.8798947985988297
+kerala,ponnani,7,E. T. Mohammed Basheer,IUML,0.9993815454658085
+kerala,thiruvananthapuram,20,Dr. SHASHI THAROOR,INC,0.9638134384420788
+kerala,thrissur,10,T. N. PRATHAPAN,INC,0.9560663386136493
+kerala,vadakara,3,K. MURALEEDHARAN,INC,0.9990273358476672
+kerala,wayanad,4,Rahul Gandhi,INC,0.9989176850761767
+lakshadweep,lakshadweep,1,MOHAMMED FAIZAL PP,NCP,0.6449183506924875
+madhya_pradesh,balaghat,15,DR DHAL SINGH BISEN,BJP,0.9994765689732183
+madhya_pradesh,betul,29,DURGA DAS (D.D.) UIKEY,BJP,0.9994996388578196
+madhya_pradesh,bhind,2,SANDHYA RAY,BJP,0.9995182507437134
+madhya_pradesh,bhopal,19,SADHVI PRAGYA SINGH THAKUR,BJP,0.9993686925134704
+madhya_pradesh,chhindwara,16,NAKUL KAMAL NATH,INC,0.9963553956375097
+madhya_pradesh,damoh,7,PRAHALAD SINGH PATEL,BJP,0.9995634403315176
+madhya_pradesh,dewas,21,MAHENDRA SINGH SOLANKY,BJP,0.9971988855618527
+madhya_pradesh,dhar,25,CHATTARSINGH DARBAR,BJP,0.9995129544109738
+madhya_pradesh,guna,4,"KRISHNA PAL SINGH """"""""Dr. K. P. YADAV""""""""",BJP,0.9993521013481226
+madhya_pradesh,gwalior,3,VIVEK NARAYAN SHEJWALKAR,BJP,0.9991101314691223
+madhya_pradesh,hoshangabad,17,UDAY PRATAP SINGH,BJP,0.9994867371685487
+madhya_pradesh,indore,26,SHANKAR LALWANI,BJP,0.9992947137877509
+madhya_pradesh,jabalpur,13,RAKESH SINGH,BJP,0.9995137915675528
+madhya_pradesh,khajuraho,8,V.D. SHARMA (VISHNU DATT SHARMA),BJP,0.9995755277778855
+madhya_pradesh,khandwa,28,NANDKUMAR SINGH CHOUHAN (NANDU BHAIYA),BJP,0.9887429110460744
+madhya_pradesh,khargone,27,GAJENDRA UMRAO SINGH PATEL,BJP,0.999479807009654
+madhya_pradesh,mandla,14,FAGGAN SINGH KULASTE,BJP,0.9994517824826541
+madhya_pradesh,mandsour,23,Sudheer Gupta,BJP,0.9995447927824689
+madhya_pradesh,morena,1,NARENDRA SINGH TOMAR,BJP,0.9992981722719904
+madhya_pradesh,rajgarh,20,RODMAL NAGAR,BJP,0.9994945516857217
+madhya_pradesh,ratlam,24,GUMAN SINGH DAMOR,BJP,0.9994072350477856
+madhya_pradesh,rewa,10,JANARDAN MISHRA,BJP,0.9995909825195708
+madhya_pradesh,sagar,5,RAJBAHADUR SINGH,BJP,0.9995412965444108
+madhya_pradesh,satna,9,GANESH SINGH,BJP,0.9995161436484811
+madhya_pradesh,shahdol,12,HIMADRI SINGH,BJP,0.9995415733471447
+madhya_pradesh,sidhi,11,Riti Pathak,BJP,0.9994327320929137
+madhya_pradesh,tikamgarh,6,Dr Virendra Kumar,BJP,0.9996212328758098
+madhya_pradesh,ujjain,22,ANIL FIROJIYA,BJP,0.9889181297023872
+madhya_pradesh,vidisha,18,Ramakant Bhargava,BJP,0.9993037375815735
+maharashtra,ahmadnagar,37,Dr. SUJAY RADHAKRISHNA VIKHEPATIL,BJP,0.9991733562142855
+maharashtra,akola,6,Dhotre Sanjay Shamrao,BJP,0.9995696393908446
+maharashtra,amravati,7,Navnit Ravi Rana,IND,0.9941699352190255
+maharashtra,aurangabad,19,Imtiaz Jaleel Syed,AIMIM,0.5624001664516249
+maharashtra,baramati,35,Supriya Sule,NCP,0.9991889210509186
+maharashtra,beed,39,Pritam Gopinathrao Munde,BJP,0.6050485948530098
+maharashtra,bhandara - gondiya,11,Sunil Baburao Mendhe,BJP,0.989470193760881
+maharashtra,bhiwandi,23,KAPIL MORESHWAR PATIL,BJP,0.9995383671886966
+maharashtra,buldhana,5,Jadhav Prataprao Ganpatrao,SHS,0.99124304159717
+maharashtra,chandrapur,13,Balubhau alias Suresh Narayan Dhanorkar,INC,0.9110704156189172
+maharashtra,dhule,2,Bhamre Subhash Ramrao,BJP,0.9994561587294545
+maharashtra,dindori,20,Dr. Bharati Pravin Pawar,BJP,0.994621148078197
+maharashtra,gadchiroli-chimur,12,ASHOK MAHADEORAO NETE,BJP,0.9928188667904362
+maharashtra,hatkanangle,48,Dhairyasheel Sambhajirao Mane,SHS,0.9988767095262185
+maharashtra,hingoli,15,Hemant Patil,SHS,0.9985558918603317
+maharashtra,jalgaon,3,Unmesh Bhaiyyasaheb Patil,BJP,0.9911612494443969
+maharashtra,jalna,18,Danve Raosaheb Dadarao,BJP,0.9995169268717218
+maharashtra,kalyan,24,Dr. SHRIKANT EKNATH SHINDE,SHS,0.9994199799543951
+maharashtra,kolhapur,47,Sanjay Sadashivrao Mandlik,SHS,0.9983913861503659
+maharashtra,latur,41,Sudhakar Tukaram Shrangare,BJP,0.991078148144433
+maharashtra,madha,43,Ranjeetsinha Hindurao Naik- Nimbalkar,BJP,0.9947665007089996
+maharashtra,maval,33,SHRIRANG APPA CHANDU BARNE,SHS,0.9993093521543696
+maharashtra,mumbai   south,31,Arvind Ganpat Sawant,SHS,0.9994712850342682
+maharashtra,mumbai north,26,Gopal Shetty,BJP,0.9912858771377773
+maharashtra,mumbai north central,29,POONAM MAHAJAN,BJP,0.9992401265242382
+maharashtra,mumbai north east,28,Manoj Kotak,BJP,0.9992485684711896
+maharashtra,mumbai north west,27,Gajanan Kirtikar,SHS,0.9994407588386303
+maharashtra,mumbai south central,30,Rahul Ramesh Shewale,SHS,0.9932496980465387
+maharashtra,nagpur,10,NITIN JAIRAM GADKARI,BJP,0.7420240617659053
+maharashtra,nanded,16,Prataprao Patil Chikhalikar,BJP,0.8629282222383192
+maharashtra,nandurbar,1,Dr. Heena Vijaykumar Gavit,BJP,0.9994690864056912
+maharashtra,nashik,21,Godse Hemant Tukaram,SHS,0.9995656492880325
+maharashtra,osmanabad,40,Omprakash Bhupalsinh Alias Pawan Rajenimbalkar,SHS,0.9648922564066572
+maharashtra,palghar,22,Rajendra Dhedya Gavit,SHS,0.9993722639803495
+maharashtra,parbhani,17,JADHAV SANJAY (BANDU) HARIBHAU,SHS,0.8928475878293384
+maharashtra,pune,34,Girish Bhalchandra Bapat,BJP,0.998138033966864
+maharashtra,raigad,32,Tatkare Sunil Dattatray,NCP,0.9975772524251297
+maharashtra,ramtek,9,Krupal Balaji Tumane,SHS,0.9710685966144487
+maharashtra,ratnagiri - sindhudurg,46,Vinayak Raut,SHS,0.999428212906939
+maharashtra,raver,4,Khadse Raksha Nikhil,BJP,0.9976107936731495
+maharashtra,sangli,44,Sanjaykaka Patil,BJP,0.990239484366322
+maharashtra,satara,45,SHRIMANT CHH. UDAYANRAJE PRATAPSINHMAHARAJ BHONSLE,NCP,0.9887626773540802
+maharashtra,shirdi,38,SADASHIV KISAN LOKHANDE,SHS,0.9992970680993221
+maharashtra,shirur,36,Dr. Amol Ramsing Kolhe,NCP,0.9978840559723088
+maharashtra,solapur,42,SHRI. SHA. BRA. DR. JAI SIDHESHWAR SHIVACHARY MAHASWAMIJI,BJP,0.9741334773060919
+maharashtra,thane,25,RAJAN BABURAO VICHARE,SHS,0.9756942377404831
+maharashtra,wardha,8,Ramdas Chandrabhanji Tadas,BJP,0.9909575771535828
+maharashtra,yavatmal-washim,14,Bhavana Pundlikrao Gawali,SHS,0.8758835575314926
+manipur,inner manipur,1,DR RAJKUMAR RANJAN SINGH,BJP,0.9976232536949524
+manipur,outer manipur,2,Lorho S. Pfoze,NPF,0.9789057560240246
+meghalaya,shillong,1,VINCENT H. PALA,INC,0.9805593893642731
+meghalaya,tura,2,AGATHA K. SANGMA,NPEP,0.9988899801538995
+mizoram,mizoram,1,C LALROSANGA,MNF,0.9975559411807644
+nagaland,nagaland,1,Tokheho Yepthomi,NDPP,0.9987323827279833
+odisha,aska,19,Pramila Bisoyi,BJD,0.9992508931922599
+odisha,balasore,6,PRATAP CHANDRA SARANGI,BJP,0.9957716515239297
+odisha,bargarh,1,Suresh Pujari,BJP,0.9960301992935229
+odisha,berhampur,20,CHANDRA SEKHAR SAHU,BJD,0.9940174666760132
+odisha,bhadrak,7,MANJULATA MANDAL,BJD,0.9983361998852205
+odisha,bhubaneswar,18,APARAJITA SARANGI,BJP,0.997815932568954
+odisha,bolangir,10,Sangeeta Kumari Singh Deo,BJP,0.996759086311814
+odisha,cuttack,14,BHARTRUHARI MAHTAB,BJD,0.9994761116025822
+odisha,dhenkanal,9,MAHESH SAHOO,BJD,0.9432416338366109
+odisha,jagatsinghpur,16,RAJASHREE MALLICK,BJD,0.9995684507915378
+odisha,jajpur,8,SARMISTHA SETHI,BJD,0.9813826538640157
+odisha,kalahandi,11,BASANTA KUMAR PANDA,BJP,0.8156962434152757
+odisha,kandhamal,13,ACHYUTANANDA SAMANTA,BJD,0.9959957712374816
+odisha,kendrapara,15,Anubhav Mohanty,BJD,0.9992226982386961
+odisha,keonjhar,4,Chandrani Murmu,BJD,0.999417910641672
+odisha,koraput,21,SAPTAGIRI SANKAR ULAKA,INC,0.6707586658323008
+odisha,mayurbhanj,5,BISHWESWAR TUDU,BJP,0.7798717213230775
+odisha,nabarangpur,12,RAMESH CHANDRA MAJHI,BJD,0.9909919720418028
+odisha,puri,17,PINAKI MISRA,BJD,0.9986023665154209
+odisha,sambalpur,3,NITESH GANGA DEB,BJP,0.9851193318035156
+odisha,sundargarh,2,Jual Oram,BJP,0.9946084275711741
+puducherry,puducherry,1,Ve. VAITHILINGAM,INC,0.9595613557596666
+punjab,amritsar,2,GURJEET SINGH AUJLA,INC,0.9950226270950797
+punjab,anandpur sahib,6,Manish Tewari,INC,0.9901726134611835
+punjab,bathinda,11,Harsimrat Kaur Badal,SAD,0.5322077261942119
+punjab,faridkot,9,Mohammad Sadique,INC,0.9027049028858958
+punjab,fatehgarh sahib,8,AMAR SINGH,INC,0.9968465743205048
+punjab,firozpur,10,SUKHBIR SINGH BADAL,SAD,0.9991689068089367
+punjab,gurdaspur,1,SUNNY DEOL,BJP,0.9987534848349897
+punjab,hoshiarpur,5,SOM PARKASH,BJP,0.8780972456703189
+punjab,jalandhar,4,Santokh Singh Chaudhary,INC,0.5486088262737706
+punjab,khadoor sahib,3,JASBIR SINGH GILL (DIMPA),INC,0.9952375306206355
+punjab,ludhiana,7,RAVNEET SINGH BITTU,INC,0.8596058048859584
+punjab,patiala,13,Preneet Kaur,INC,0.9978564914388677
+punjab,sangrur,12,BHAGWANT MANN,AAAP,0.9049523429791566
+rajasthan,ajmer,13,Bhagirath Chaudhary,BJP,0.992532824178984
+rajasthan,alwar,8,Balak Nath,BJP,0.9918481412689351
+rajasthan,banswara,20,KANAKMAL KATARA,BJP,0.9992483027364358
+rajasthan,barmer,17,KAILASH CHOUDHARY,BJP,0.9802831402343244
+rajasthan,bharatpur,9,RANJEETA KOLI,BJP,0.994236398351975
+rajasthan,bhilwara,23,SUBHASH CHANDRA BAHERIA,BJP,0.9952151992895052
+rajasthan,bikaner (sc),2,ARJUN RAM MEGHWAL,BJP,0.9812012333866864
+rajasthan,chittorgarh,21,Chandra Prakash Joshi,BJP,0.993282327040132
+rajasthan,churu,3,RAHUL KASWAN,BJP,0.9996103463402225
+rajasthan,dausa,11,Jaskaur Meena,BJP,0.9898683780935256
+rajasthan,ganganagar,1,NIHAL CHAND,BJP,0.9874525118044474
+rajasthan,jaipur,7,Ramcharan Bohra,BJP,0.999246008533151
+rajasthan,jaipur rural,6,COL. RAJYAVARDHAN RATHORE,BJP,0.9961440663607048
+rajasthan,jalore,18,Devaji Patel,BJP,0.9996039128150006
+rajasthan,jhalawar-baran,25,DUSHYANT SINGH,BJP,0.999532958198718
+rajasthan,jhunjhunu,4,NARENDRA KUMAR,BJP,0.9994334837174954
+rajasthan,jodhpur,16,Gajendra Singh Shekhawat,BJP,0.9865101552157718
+rajasthan,karauli-dholpur,10,MANOJ RAJORIA,BJP,0.9979222752920572
+rajasthan,kota,24,OM BIRLA,BJP,0.9995614626247967
+rajasthan,nagaur,14,HANUMAN BENIWAL,RLTP,0.9993826470695059
+rajasthan,pali,15,P. P. CHAUDHARY,BJP,0.9961295574244715
+rajasthan,rajsamand,22,Diya Kumari,BJP,0.9995121399141903
+rajasthan,sikar,5,Sumedhanand Saraswati,BJP,0.9991086288155626
+rajasthan,tonk-sawai madhopur,12,Sukhbir Singh Jaunapuria,BJP,0.9934637538363515
+rajasthan,udaipur,19,ARJUNLAL MEENA,BJP,0.9994866024476392
+sikkim,sikkim,1,INDRA HANG SUBBA,SKM,0.9944516315876782
+tamil_nadu,arakkonam,7,S. JAGATHRAKSHAKAN,DMK,0.9849187454799916
+tamil_nadu,arani,12,VISHNU PRASAD M K,INC,0.979916543542978
+tamil_nadu,chennai central,4,DAYANIDHI MARAN,DMK,0.9992180607267855
+tamil_nadu,chennai north,2,Dr. KALANIDHI VEERASWAMY,DMK,0.9836182953436443
+tamil_nadu,chennai south,3,T.SUMATHY (A) THAMIZHACHI THANGAPANDIAN,DMK,0.8314653959972998
+tamil_nadu,chidambaram,27,THIRUMAAVALAVAN THOL,VCK,0.8085893963746253
+tamil_nadu,coimbatore,20,NATARAJAN. P.R,CPIM,0.9717753512232908
+tamil_nadu,cuddalore,26,T. R. V .S. RAMESH,DMK,0.999491805416153
+tamil_nadu,dharmapuri,10,DNV SENTHILKUMAR. S.,DMK,0.9966111384256632
+tamil_nadu,dindigul,22,"VELUSAMY, P.",DMK,0.9993348100605095
+tamil_nadu,erode,17,GANESHAMURTHI A,DMK,0.9995028412143245
+tamil_nadu,kallakurichi,14,Gautham Sigamani Pon,DMK,0.9993857973855323
+tamil_nadu,kancheepuram,6,Selvam.G,DMK,0.9989747196055416
+tamil_nadu,kanniyakumari,39,Vasanthakumar. H,INC,0.976226288739593
+tamil_nadu,karur,23,Jothimani S,INC,0.9967263838806841
+tamil_nadu,krishnagiri,9,Dr.A.CHELLAKUMAR,INC,0.9989943558036911
+tamil_nadu,madurai,32,VENKATESAN S,CPIM,0.9097488843449637
+tamil_nadu,mayiladuthurai,28,RAMALINGAM. S,DMK,0.9995035026341827
+tamil_nadu,nagapattinam,29,SELVARAJ M,CPI,0.9991133981941782
+tamil_nadu,namakkal,16,CHINRAJ A.K.P,DMK,0.9986545121977113
+tamil_nadu,nilgiris,19,"RAJA, A.",DMK,0.9991566845339961
+tamil_nadu,perambalur,25,"Dr.PAARIVENDHAR, T. R",DMK,0.9743622437952176
+tamil_nadu,pollachi,21,SHANMUGA SUNDARAM. K,DMK,0.984735296348133
+tamil_nadu,ramanathapuram,35,K. NAVASKANI,IUML,0.8487527098505281
+tamil_nadu,salem,15,PARTHIBAN.S.R,DMK,0.9675607702787803
+tamil_nadu,sivaganga,31,KARTI P CHIDAMBARAM,INC,0.9971985530825227
+tamil_nadu,sriperumbudur,5,Baalu.T.R.,DMK,0.9680519956506975
+tamil_nadu,tenkasi,37,DHANUSH.M.KUMAR,DMK,0.9980545072095348
+tamil_nadu,thanjavur,30,"PALANIMANICKAM,S.S.",DMK,0.9993855353312865
+tamil_nadu,theni,33,"RAVEENDRANATH KUMAR, P",ADMK,0.9630671942741286
+tamil_nadu,thiruvallur,1,Dr.K.Jayakumar,INC,0.998594472654341
+tamil_nadu,thoothukkudi,36,KANIMOZHI KARUNANIDHI,DMK,0.999040392327529
+tamil_nadu,tiruchirappalli,24,Thirunavukkarasar. SU,INC,0.9282164608363883
+tamil_nadu,tirunelveli,38,GNANATHIRAVIAM S,DMK,0.9980579827990473
+tamil_nadu,tiruppur,18,"SUBBARAYAN, K.",CPI,0.7982346668457293
+tamil_nadu,tiruvannamalai,11,ANNADURAI C N,DMK,0.9994489452954287
+tamil_nadu,viluppuram,13,RAVIKUMAR D,DMK,0.9872389602911384
+tamil_nadu,virudhunagar,34,"MANICKAM TAGORE, B.",INC,0.9827502480121575
+telangana,adilabad,1,SOYAM BAPU RAO,BJP,0.8119039432745676
+telangana,bhongir,14,Komati Reddy Venkat Reddy,INC,0.22774228153892748
+telangana,chevella,10,Konda Vishweshwar Reddy,INC,0.06552628818184222
+telangana,hyderabad,9,ASADUDDIN OWAISI,AIMIM,0.9550278001798187
+telangana,karimnagar,3,BANDI SANJAY KUMAR,BJP,0.7852055641897495
+telangana,khammam,17,NAMA NAGESWR RAO,TRS,0.7825471341578416
+telangana,mahabubabad,16,Kavitha Malothu,TRS,0.8905962682509969
+telangana,mahbubnagar,11,MANNE SRINIVAS REDDY,TRS,0.8685787458102899
+telangana,malkajgiri,7,ANUMULA REVANTH REDDY,INC,0.22499185549953152
+telangana,medak,6,Kotha Prabhakar Reddy,TRS,0.9606516539704117
+telangana,nagarkurnool,12,POTHUGANTI RAMULU,TRS,0.9442722621246539
+telangana,nalgonda,13,UTTAM KUMAR REDDY NALAMADA,INC,0.10039812076652961
+telangana,nizamabad,4,ARVIND DHARMAPURI,BJP,0.005919868426361255
+telangana,peddapalle,2,Venkatesh Netha Borlakunta,TRS,0.8417025479258238
+telangana,secundrabad,8,G . KISHAN REDDY,BJP,0.6906162460437042
+telangana,warangal,15,DAYAKAR PASUNOORI,TRS,0.9062059515293411
+telangana,zahirabad,5,B.B.PATIL,TRS,0.47982856450150224
+tripura,tripura east,2,Rebati Tripura,BJP,0.9717324612055049
+tripura,tripura west,1,Pratima Bhoumik,BJP,0.998760746492556
+uttar_pradesh,agra,18,Satyapal Singh Baghel,BJP,0.9933924958004292
+uttar_pradesh,akbarpur,44,Devendra Singh 'Bhole',BJP,0.9966723036784163
+uttar_pradesh,aligarh,15,SATISH KUMAR GAUTAM,BJP,0.999613122367891
+uttar_pradesh,allahabad,52,Rita Bahuguna Joshi,BJP,0.9952185868181502
+uttar_pradesh,ambedkar nagar,55,Ritesh Pandey,BSP,0.8942489390561199
+uttar_pradesh,amethi,37,Smriti Irani,BJP,0.921367406384636
+uttar_pradesh,amroha,9,KUNWAR DANISH ALI,BSP,0.9696302302910063
+uttar_pradesh,aonla,24,DHARMENDRA KASHYAP,BJP,0.9996008497182176
+uttar_pradesh,azamgarh,69,Akhilesh Yadav,SP,0.9877678780582985
+uttar_pradesh,badaun,23,Dr. Sanghmitra Maurya,BJP,0.9373205187363777
+uttar_pradesh,baghpat,11,Dr. SATYAPAL SINGH,BJP,0.8324023766035019
+uttar_pradesh,bahraich,56,AKSHAIBAR LAL,BJP,0.9993850216621795
+uttar_pradesh,ballia,72,Virendra Singh,BJP,0.9553401272269945
+uttar_pradesh,banda,48,R.K. SINGH PATEL,BJP,0.9948867540963896
+uttar_pradesh,bansgaon,67,Kamlesh Paswan,BJP,0.9934938815546006
+uttar_pradesh,barabanki,53,Upendra Singh Rawat,BJP,0.9962058543545875
+uttar_pradesh,bareilly,25,SANTOSH KUMAR GANGWAR,BJP,0.9996097690015746
+uttar_pradesh,basti,61,HARISH CHANDRA ALIAS HARISH DWIVEDI,BJP,0.9732163193094433
+uttar_pradesh,bhadohi,78,RAMESH CHAND,BJP,0.9854287111322229
+uttar_pradesh,bijnor,4,MALOOK NAGAR,BSP,0.9969993935627917
+uttar_pradesh,bulandshahr,14,BHOLA SINGH,BJP,0.9982796495989789
+uttar_pradesh,chandauli,76,Dr. Mahendra Nath Pandey,BJP,0.8935384804171427
+uttar_pradesh,deoria,66,RAMAPATI RAM TRIPATHI,BJP,0.9936811071255327
+uttar_pradesh,dhaurahra,29,REKHA VERMA,BJP,0.9967034358779865
+uttar_pradesh,domariyaganj,60,JAGDAMBIKA PAL,BJP,0.9965533254936669
+uttar_pradesh,etah,22,Rajveer Singh (Raju Bhaiya),BJP,0.9996300235534527
+uttar_pradesh,etawah,41,Dr RAM SHANKAR KATHERIA,BJP,0.9995186102168653
+uttar_pradesh,faizabad,54,LALLU SINGH,BJP,0.9994537718463892
+uttar_pradesh,farrukhabad,40,Mukesh Rajput,BJP,0.9977608387937691
+uttar_pradesh,fatehpur,49,NIRANJAN JYOTI,BJP,0.9954491117818117
+uttar_pradesh,fatehpur sikri,19,RAJKUMAR CHAHAR,BJP,0.9930389657594102
+uttar_pradesh,firozabad,20,Dr. Chandra Sen Jadon,BJP,0.9206464363227079
+uttar_pradesh,gautam buddha nagar,13,Dr. MAHESH SHARMA,BJP,0.9963489872481197
+uttar_pradesh,ghaziabad,12,Vijay Kumar Singh,BJP,0.9925736935170946
+uttar_pradesh,ghazipur,75,AFZAL ANSARI,BSP,0.9180470382273989
+uttar_pradesh,ghosi,70,ATUL KUMAR SINGH,BSP,0.9435495974503508
+uttar_pradesh,gonda,59,KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA,BJP,0.9995686588304373
+uttar_pradesh,gorakhpur,64,Ravindra Shyamnarayan Shukla alias Ravi Kishan,BJP,0.9880694709791815
+uttar_pradesh,hamirpur,47,KUNWAR PUSHPENDRA SINGH CHANDEL,BJP,0.9994025419692989
+uttar_pradesh,hardoi,31,Jai Prakash,BJP,0.9929880529211637
+uttar_pradesh,hathras,16,RAJVIR DILER,BJP,0.9949985945398755
+uttar_pradesh,jalaun,45,BHANU PRATAP SINGH VERMA,BJP,0.9972054443417424
+uttar_pradesh,jaunpur,73,SHYAM SINGH YADAV,BSP,0.9436922692390131
+uttar_pradesh,jhansi,46,Anurag Sharma,BJP,0.9952267827725907
+uttar_pradesh,kairana,2,Pradeep Kumar,BJP,0.9995077303275843
+uttar_pradesh,kaiserganj,57,Brijbhusan Sharan Singh,BJP,0.9969077803599925
+uttar_pradesh,kannauj,42,SUBRAT PATHAK,BJP,0.7692270321476771
+uttar_pradesh,kanpur,43,Satyadev Pachauri,BJP,0.9951239160075331
+uttar_pradesh,kaushambi,50,VINOD KUMAR SONKAR,BJP,0.9982712726520553
+uttar_pradesh,kheri,28,Ajay Kumar,BJP,0.9996169158622317
+uttar_pradesh,kushi nagar,65,VIJAY KUMAR DUBEY,BJP,0.999294182231006
+uttar_pradesh,lalganj,68,Sangeeta Azad,BSP,0.9973418467616797
+uttar_pradesh,lucknow,35,Rajnath Singh,BJP,0.9953871647185597
+uttar_pradesh,machhlishahr,74,Bholanath (B.P. Saroj),BJP,0.8074698905741041
+uttar_pradesh,maharajganj,63,PANKAJ CHOUDHARY,BJP,0.9918975234544984
+uttar_pradesh,mainpuri,21,MULAYAM SINGH YADAV,SP,0.9959363261559473
+uttar_pradesh,mathura,17,HEMA MALINI,BJP,0.9937055331650567
+uttar_pradesh,meerut,10,RAJENDRA AGARWAL,BJP,0.7243722637048041
+uttar_pradesh,mirzapur,79,Anupriya Singh Patel,ADAL,0.9955904747259574
+uttar_pradesh,misrikh,32,Ashok Kumar Rawat,BJP,0.9876628665236469
+uttar_pradesh,mohanlalganj,34,Kaushal Kishore,BJP,0.987008238648381
+uttar_pradesh,moradabad,6,Dr. S.T. HASAN,SP,0.9613391905938149
+uttar_pradesh,muzaffarnagar,3,Sanjeev Kumar Balyan,BJP,0.7622029041194788
+uttar_pradesh,nagina,5,GIRISH CHANDRA,BSP,0.9682526361915513
+uttar_pradesh,phulpur,51,Keshari Devi Patel,BJP,0.9961441242725891
+uttar_pradesh,pilibhit,26,Feroze Varun Gandhi,BJP,0.9995718312284108
+uttar_pradesh,pratapgarh,39,SANGAM LAL GUPTA,BJP,0.9961294982493272
+uttar_pradesh,rae bareli,36,SONIA GANDHI,INC,0.9993627134961238
+uttar_pradesh,rampur,7,Mohammad Azam Khan,SP,0.9985225357502987
+uttar_pradesh,robertsganj,80,PAKAURI LAL KOL,ADAL,0.9820926509724799
+uttar_pradesh,saharanpur,1,HAJI FAZLUR REHMAN,BSP,0.8947170075425692
+uttar_pradesh,salempur,71,RAVINDER,BJP,0.9996179724151875
+uttar_pradesh,sambhal,8,DR. SHAFIQUR REHMAN BARQ,SP,0.9989724756819841
+uttar_pradesh,sant kabir nagar,62,PRAVEEN KUMAR NISHAD,BJP,0.8422203609715352
+uttar_pradesh,shahjahanpur,27,Arun Kumar Sagar,BJP,0.9994949629765808
+uttar_pradesh,shrawasti,58,RAM SHIROMANI,BSP,0.8392052770275622
+uttar_pradesh,sitapur,30,Rajesh Verma,BJP,0.9944339617881681
+uttar_pradesh,sultanpur,38,MANEKA SANJAI GANDHI,BJP,0.8229854195824491
+uttar_pradesh,unnao,33,Swami Sakshi Ji Maharaj,BJP,0.9952460243385433
+uttar_pradesh,varanasi,77,NARENDRA MODI,BJP,0.9927471932955756
+uttarakhand,almora,3,Ajay Tamta,BJP,0.9921042243131633
+uttarakhand,garhwal,2,Tirath Singh Rawat,BJP,0.9861251151594136
+uttarakhand,hardwar,5,Ramesh Pokhriyal 'Nishank',BJP,0.9569407115234689
+uttarakhand,nainital-udhamsingh nagar,4,Ajay Bhatt,BJP,0.9949195732042607
+uttarakhand,tehri garhwal,1,MALA RAJYA LAXMI SHAH,BJP,0.9994085331940594
+west_bengal,alipurduars,2,JOHN BARLA,BJP,0.9802734157225949
+west_bengal,arambagh,29,APARUPA PODDAR (AFRIN ALI),AITC,0.9959388557577709
+west_bengal,asansol,40,BABUL SUPRIYO,BJP,0.9819901620397011
+west_bengal,baharampur,10,ADHIR RANJAN CHOWDHURY,INC,0.9991027881350417
+west_bengal,balurghat,6,Sukanta Majumdar,BJP,0.9974009269438774
+west_bengal,bangaon,14,SHANTANU THAKUR,BJP,0.9922672389828952
+west_bengal,bankura,36,DR. SUBHAS SARKAR,BJP,0.9992961029766503
+west_bengal,barasat,17,Dr. Kakoli Ghoshdastidar,AITC,0.9987065333540164
+west_bengal,bardhaman durgapur,39,DR. MAMTAZ SANGHAMITA,AITC,0.5719452312047805
+west_bengal,bardhaman purba,38,SUNIL KUMAR MONDAL,AITC,0.9475868503109197
+west_bengal,barrackpore,15,ARJUN SINGH,BJP,0.9954304177087604
+west_bengal,basirhat,18,Nusrat Jahan Ruhi,AITC,0.9992652536387698
+west_bengal,birbhum,42,SATABDI ROY,AITC,0.9650274949981095
+west_bengal,bishnupur,37,KHAN SAUMITRA,BJP,0.9992939997970398
+west_bengal,bolpur,41,ASIT KUMAR MAL,AITC,0.9989631024354745
+west_bengal,cooch behar,1,NISITH PRAMANIK,BJP,0.8482928478397888
+west_bengal,darjeeling,4,RAJU BISTA,BJP,0.9995353916575963
+west_bengal,diamond harbour,21,ABHISHEK BANERJEE,AITC,0.992668345526184
+west_bengal,dum dum,16,SOUGATA RAY,AITC,0.9983888892356259
+west_bengal,ghatal,32,ADHIKARI DEEPAK (DEV),AITC,0.99052549814068
+west_bengal,hooghly,28,LOCKET CHATTERJEE,BJP,0.999129642454681
+west_bengal,howrah,25,Prasun Banerjee,AITC,0.9984193607861869
+west_bengal,jadavpur,22,MIMI CHAKRABORTY,AITC,0.9990900731855697
+west_bengal,jalpaiguri,3,Dr. JAYANTA KUMAR ROY,BJP,0.9993931845018164
+west_bengal,jangipur,9,KHALILUR RAHAMAN,AITC,0.9981512366876965
+west_bengal,jaynagar,19,PRATIMA MONDAL,AITC,0.9417217484662477
+west_bengal,jhargram,33,Kunar Hembram,BJP,0.8440502425935417
+west_bengal,kanthi,31,Adhikari Sisir,AITC,0.9993077865404171
+west_bengal,kolkata dakshin,23,Mala Roy,AITC,0.9883594194278554
+west_bengal,kolkata uttar,24,BANDYOPADHYAY SUDIP,AITC,0.9986709127629219
+west_bengal,krishnanagar,12,MAHUA MOITRA,AITC,0.9989153160129052
+west_bengal,maldaha dakshin,8,ABU HASEM KHAN CHOWDHURY (DALU),INC,0.6696086373498268
+west_bengal,maldaha uttar,7,KHAGEN MURMU,BJP,0.9983522836915905
+west_bengal,mathurapur,20,CHOUDHURY MOHAN JATUA,AITC,0.9969191575655361
+west_bengal,medinipur,34,Dilip Ghosh,BJP,0.9989404393345275
+west_bengal,murshidabad,11,ABU TAHER KHAN,AITC,0.9985189554599068
+west_bengal,purulia,35,JYOTIRMAY SINGH MAHATO,BJP,0.9995359232342411
+west_bengal,raiganj,5,DEBASREE CHAUDHURI,BJP,0.9989717156284671
+west_bengal,ranaghat,13,JAGANNATH SARKAR,BJP,0.9818685618612151
+west_bengal,srerampur,27,KALYAN BANERJEE,AITC,0.9993665782872998
+west_bengal,tamluk,30,Adhikari Dibyendu,AITC,0.9992363485090602
+west_bengal,uluberia,26,SAJDA AHMED,AITC,0.9835095572985203
