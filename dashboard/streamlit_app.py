@@ -10,13 +10,25 @@ from typing import Dict, Any
 
 st.set_page_config(layout="wide", page_title="Election ML Dashboard")
 
-# --------- CONFIG: adjust these paths if your files are elsewhere ----------
-BASE_DIR = Path("../training/election_outputs")
-MODELS_DIR = BASE_DIR / "models"
-RECS_CSV = BASE_DIR / "recommended_candidates_pc.csv"
-SWING_CSV = BASE_DIR / "pc_swing_ranking.csv"
-PRED_CSV = BASE_DIR / "df_latest_predictions.csv"
-METRICS_JSON = BASE_DIR / "model_metrics.json"
+# --------- CONFIG:----------
+
+# Directory where this file lives: .../dashboard
+THIS_DIR = Path(__file__).resolve().parent
+
+# Repo root (parent of dashboard): ...
+REPO_ROOT = THIS_DIR.parent
+
+# Training / election_results folder
+ELECTION_RESULTS_DIR = REPO_ROOT / "training" / "election_results"
+
+# Models folder inside that
+MODELS_DIR = ELECTION_RESULTS_DIR / "models"
+
+# Now define your specific files (adjust names to match your actual files)
+RECS_CSV = ELECTION_RESULTS_DIR / "recommended_candidates_pc.csv"
+SWING_CSV = ELECTION_RESULTS_DIR / "pc_swing_ranking.csv"
+PRED_CSV = ELECTION_RESULTS_DIR / "df_latest_predictions.csv"
+METRICS_JSON = ELECTION_RESULTS_DIR / "model_metrics.json"
 # ------------------------------------------------------------------------
 
 st.title("Election Models — Dashboard")
