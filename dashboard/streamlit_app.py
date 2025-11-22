@@ -19,7 +19,7 @@ THIS_DIR = Path(__file__).resolve().parent
 REPO_ROOT = THIS_DIR.parent
 
 # Training / election_results folder
-ELECTION_RESULTS_DIR = REPO_ROOT / "training" / "election_results"
+ELECTION_RESULTS_DIR = REPO_ROOT / "training" / "election_outputs"
 
 # Models folder inside that
 MODELS_DIR = ELECTION_RESULTS_DIR / "models"
