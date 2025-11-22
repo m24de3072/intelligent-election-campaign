@@ -21,7 +21,7 @@ import numpy as np
 
 # ---------- CONFIG - adjust paths if needed ----------
 ELECTORAL_PATH = Path("./election_outputs/electoral_with_census_attributes.csv")
-CENSUS_PATH = Path("/Users/priyeashbala/Personal_Projects/Smart_Election_Campaign/Census.csv")  # replace if needed
+CENSUS_PATH = Path("./Census.csv")  # replace if needed
 OUT_DIR = Path("./election_outputs")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 OUT_PATH = OUT_DIR / "electoral_with_census_attributes_with_urban_flag.csv"

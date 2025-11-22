@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-map_electoral_to_census_reverse.py
+create_ac_pc_census_merge.py
 
 For each electoral (TCPD) row, find the best matching Census row (District or Sub-district)
 and attach the matched census columns (prefixed with c_) to the electoral row.
@@ -20,8 +20,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ---------- CONFIG ----------
-TCPD_PATH = Path("/Users/priyeashbala/Personal_Projects/Smart_Election_Campaign/TCPD_GA_All_States_2025-10-7.csv")
-CENSUS_PATH = Path("/Users/priyeashbala/Personal_Projects/Smart_Election_Campaign/Census.csv")
+TCPD_PATH = Path("./TCPD_GA_All_States_2025-10-7.csv")
+CENSUS_PATH = Path("./Census.csv")
 OUT_DIR = Path("./election_outputs")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 

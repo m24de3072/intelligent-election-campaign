@@ -53,7 +53,7 @@ except Exception:
     TABNET_AVAILABLE = False
 
 # ---------- Paths ----------
-DATA_PATH = Path("/Users/priyeashbala/Personal_Projects/Smart_Election_Campaign/dataset/election_outputs/electoral_with_census_attributes_with_urban_flag.csv")
+DATA_PATH = Path("./dataset/election_outputs/electoral_with_census_attributes_with_urban_flag.csv")
 OUT_DIR = Path("./election_outputs")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 MODELS_DIR = OUT_DIR / "models"

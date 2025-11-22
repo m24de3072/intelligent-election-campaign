@@ -11,7 +11,7 @@ from typing import Dict, Any
 st.set_page_config(layout="wide", page_title="Election ML Dashboard")
 
 # --------- CONFIG: adjust these paths if your files are elsewhere ----------
-BASE_DIR = Path("/Users/priyeashbala/Personal_Projects/Smart_Election_Campaign/training/election_outputs")
+BASE_DIR = Path("./training/election_outputs")
 MODELS_DIR = BASE_DIR / "models"
 RECS_CSV = BASE_DIR / "recommended_candidates_pc.csv"
 SWING_CSV = BASE_DIR / "pc_swing_ranking.csv"
